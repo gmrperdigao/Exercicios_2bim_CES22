@@ -1,0 +1,1 @@
+No projeto do aplicativo em Flask, utilizou-se o princípio de Single Responsability porque cada página foi utilizada possuía uma função. No projeto de PyGame, utilizou-se classes diferentes para cada objeto do jogo, dado aos diferentes detalhamentos e responsabilidades de cada.
